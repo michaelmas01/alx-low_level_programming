@@ -1,4 +1,4 @@
-lude <stdio.h>
+#include <stdio.h>
 
 /**
  * main - a simple program that outputs unordered
